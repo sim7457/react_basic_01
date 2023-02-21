@@ -1,0 +1,24 @@
+.Header ul {
+    display: flex;
+}
+
+.Header .bg {
+    height: 300px;
+    background: url(../public/images/img.png);
+}
+
+.slide {
+    background: #f2f2f2;
+}
+
+.slide .itm01 {
+    background: #f00;
+}
+
+.slide .itm02 {
+    background: #ff0;
+}
+
+.slide .itm03 {
+    background: #00f;
+}
